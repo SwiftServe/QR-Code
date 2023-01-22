@@ -15,5 +15,10 @@ h1{
 }
 
 .title{
-    color:red;
+    color:mediumspringgreen;
+}
+p {
+    margin: 15px 0;
+    padding: 5px;
+    border: 7px solid #999;
 }

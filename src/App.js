@@ -14,7 +14,7 @@ const App = ({text}) => {
   return (<div style={{background: 'grey', padding: '300px', width:'75%', height: '75%'}}>
     <h1 className="title">SwiftServe QRCode</h1>
     <QRCode value = 'test'/>
-    Scan the QRCode to access to the Bill
+    <p>Scan the QRCode to access to the bill</p>
   </div>
   )
 };
