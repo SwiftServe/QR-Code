@@ -1,0 +1,19 @@
+@media (max-with:768px){
+
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(2,50px);
+}
+h1{
+    color:red;
+}
+
+.title{
+    color:red;
+}
